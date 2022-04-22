@@ -1,1 +1,1 @@
-# JS-Practical
+# Programming Foundations
